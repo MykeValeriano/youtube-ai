@@ -3,7 +3,6 @@ import google.generativeai as genai
 from utils.youtube_agent import get_transcript_from_youtube
 
 #genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
-genai.configure(api_key="AIzaSyB7jhfPmylkTapJ77nYiNlEP8VAYCJd7Es")
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 def generate_summary(source: str) -> str:
