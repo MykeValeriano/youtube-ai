@@ -1,0 +1,53 @@
+{
+  "quiz": [
+    {
+      "type": "multiple",
+      "question": "Why did Roberto's mother send him to live with his uncles in 1936?",
+      "options": [
+        "Because she was traveling for work",
+        "Due to a difficult economic situation",
+        "So he could attend a better school",
+        "Because his uncles needed help"
+      ],
+      "answer": "Due to a difficult economic situation"
+    },
+    {
+      "type": "multiple",
+      "question": "According to Roberto, why did he decide to have adults play the roles of children in his new show?",
+      "options": [
+        "It was cheaper than hiring child actors.",
+        "He couldn't find any children who were good enough.",
+        "He considered it cruel for children to work as actors and not have a normal life.",
+        "The channel executives demanded it."
+      ],
+      "answer": "He considered it cruel for children to work as actors and not have a normal life."
+    },
+    {
+      "type": "open",
+      "question": "What object from his childhood did Roberto look for to find the final spark of inspiration for his script?",
+      "answer": "His checkered cap (or his childhood cap/hat)."
+    },
+    {
+      "type": "multiple",
+      "question": "What ultimately inspired the name 'El Chavo del Ocho' for the main character?",
+      "options": [
+        "The character lived at house number 8.",
+        "It was the eighth script Roberto had written that year.",
+        "The program was going to air on Channel 8.",
+        "It was a tribute to his eight siblings."
+      ],
+      "answer": "The program was going to air on Channel 8."
+    },
+    {
+      "type": "multiple",
+      "question": "During the lunch in Acapulco in 1978, why did Ramón get up and leave the table?",
+      "options": [
+        "He was upset by Carlos's sarcastic comments.",
+        "He had to take a phone call.",
+        "Graciela asked him to leave.",
+        "Margarita made a harsh comment about his physical appearance."
+      ],
+      "answer": "Margarita made a harsh comment about his physical appearance."
+    }
+  ]
+}
